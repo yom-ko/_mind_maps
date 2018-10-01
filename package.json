@@ -1,9 +1,8 @@
 {
   "name": "_mind_maps",
   "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
   "description": "My conceptual mindmaps (mental models) of how things work in the JavaScript world. I try to keep them up-to-date but the process is no way real-time :) It's just my way to fight the notorious JS fatigue by keeping the bigger picture at hand. Hope this stuff may be helpful to someone. Any feedback is welcome!",
-  "main": "index.js",
-  "repository": "https://github.com/yom-ko/_mind_maps.git",
-  "author": "yom-ko <artem.getcode@gmail.com>",
-  "license": "MIT"
+  "repository": "https://github.com/yom-ko/_mind_maps.git"
 }
